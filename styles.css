@@ -1,0 +1,65 @@
+body { background-color: #8D8492;
+font-family: Vrdana, Arial, Sans-serif; }
+
+#wrapper { margin: 0 auto;
+width: 80%;
+min-width: 960px;
+background-color: #B3C7E6;
+color: #000066;}
+
+#header { background-color: #869DC7;
+color: #00005D;
+font-size: 150%;
+padding: 10px 10px 10px 155px;
+background-repeat: no-repeat;
+background-image: url(styleslogo.jpg); }
+
+h1 { margin-bottom: 20px; }
+
+#nav { float: right;
+width: 150px;
+font-weight: bold;
+letter-spacing: 0.1em; }
+
+#content { background-color: #ffffff;
+color: #000000;
+padding: 10px 20px;
+overflow: auto; }
+
+#footer { font-size: 70%;
+text-align: center;
+padding: 10px;
+background-color: #869DC7;
+clear: both; }
+
+  
+  div { 
+    background-color: white;
+padding: 1em;
+    border-width: 5px; 
+    border-style: solid;
+    border-color: red;
+    margin: 5px !important;
+   }
+   
+  h1 {
+   font-size: 1.5em;
+    font-weight: bold;
+    color: #1A4302; /* dark green */
+    text-align: center;
+background-image:url('../images/.gif');
+height:100px;
+  }
+  
+  #banner {
+  
+  text-align: center;
+  margin-top: 2em;
+  margin-left:275px;
+  width: 500px;
+  padding-right: 1em;
+  margin-bottom: .5em;
+  
+  }
+
+  
